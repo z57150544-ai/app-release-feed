@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.0.0",
-    "latestBuild":  4,
-    "minimumSupportedBuild":  null,
-    "releasePageUrl":  null,
-    "releaseNotes":  "Release notes require review before publication.",
-    "publishedAt":  null
+  "latestVersion": "1.0.0",
+  "latestBuild": 5,
+  "minimumSupportedBuild": 4,
+  "releasePageUrl": "https://github.com/z57150544-ai/app-release-feed/releases/tag/v1.0.0-build.5",
+  "releaseNotes": "\u9996\u6b21\u555f\u7528\u5b89\u5168\u7684\u9060\u7aef\u7248\u672c\u6aa2\u67e5\u3002",
+  "publishedAt": "2026-07-19T12:25:22Z"
 }
