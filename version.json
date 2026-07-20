@@ -1,8 +1,8 @@
 {
   "latestVersion": "1.0.0",
-  "latestBuild": 7,
+  "latestBuild": 8,
   "minimumSupportedBuild": 4,
-  "releasePageUrl": "https://github.com/z57150544-ai/app-release-feed/releases/tag/v1.0.0-build.7",
-  "releaseNotes": "\u4fee\u6b63\u66f4\u65b0\u4f86\u6e90\u5df2\u8a2d\u5b9a\u6642\uff0c\u521d\u59cb\u72c0\u614b\u4ecd\u986f\u793a\u672a\u8a2d\u5b9a\u4e26\u9396\u4f4f\u66f4\u65b0\u6aa2\u67e5\u7684\u554f\u984c\u3002",
-  "publishedAt": "2026-07-20T11:34:28Z"
+  "releasePageUrl": "https://github.com/z57150544-ai/app-release-feed/releases/tag/v1.0.0-build.8",
+  "releaseNotes": "\u4fee\u6b63\u6b63\u5f0f\u5efa\u7f6e\u6642\u9060\u7aef\u66f4\u65b0 dart-define \u672a\u6b63\u78ba\u5c55\u958b\uff0c\u5c0e\u81f4\u66f4\u65b0\u4f86\u6e90\u5728\u57f7\u884c\u6642\u88ab\u5224\u5b9a\u70ba\u672a\u8a2d\u5b9a\u7684\u554f\u984c\u3002",
+  "publishedAt": "2026-07-20T15:54:47Z"
 }
